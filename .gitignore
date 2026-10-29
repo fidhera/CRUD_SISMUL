@@ -1,0 +1,19 @@
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Editor / IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary / Log Files
+application/logs/log-*.php
+!application/logs/index.html
+application/cache/*
+!application/cache/index.html
+!application/cache/.gitkeep
